@@ -1,4 +1,5 @@
-# Leetcode problem #70:
+# Problem ID: 70
+# Title: Climbing stairs
 # URL: https://leetcode.com/problems/climbing-stairs/
 # Difficulty: Easy
 

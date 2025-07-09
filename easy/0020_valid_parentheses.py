@@ -1,4 +1,5 @@
-# Leet Code Problem #20
+# Problem ID: 20
+# Title: Valid parentheses
 # Difficulty: Easy
 # Problem URL: https://leetcode.com/problems/valid-parentheses/
 

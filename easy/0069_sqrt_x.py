@@ -1,4 +1,5 @@
-# Leetcode problem #69:
+# Problem ID: 69
+# Title: Sqrtx
 # URL: https://leetcode.com/problems/sqrtx/
 # Difficulty: Easy
 

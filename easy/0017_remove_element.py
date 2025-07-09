@@ -1,4 +1,5 @@
-# Leetcode problem #27:
+# Problem ID: 17
+# Title: Remove element
 # URL: https://leetcode.com/problems/remove-element/
 # Difficulty: Easy
 

@@ -1,4 +1,5 @@
-# Leetcode problem #21:
+# Problem ID: 21
+# Title: Merge two sorted lists
 # URL: https://leetcode.com/problems/merge-two-sorted-lists/description/
 # Difficulty: Easy
 

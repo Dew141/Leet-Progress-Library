@@ -1,4 +1,5 @@
-# Leetcode problem #58:
+# Problem ID: 58
+# Title: Length of last word
 # URL: https://leetcode.com/problems/length-of-last-word/
 # Difficulty: Easy
 

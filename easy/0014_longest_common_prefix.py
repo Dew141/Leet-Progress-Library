@@ -1,4 +1,5 @@
-# Leetcode problem #14:
+# Problem ID: 14
+# Title: Longest common prefix
 # URL: https://leetcode.com/problems/longest-common-prefix/
 # Difficulty: Easy
 

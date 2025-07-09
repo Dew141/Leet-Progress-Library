@@ -1,4 +1,5 @@
-# Leetcode problem #66:
+# Problem ID: 66
+# Title: Plus one
 # URL: https://leetcode.com/problems/plus-one/description/
 # Difficulty: Easy
 

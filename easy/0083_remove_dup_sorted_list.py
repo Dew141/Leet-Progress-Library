@@ -1,4 +1,5 @@
-# Leetcode problem #83:
+# Problem ID: 83
+# Title: Remove duplicates from sorted list
 # URL: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 # Difficulty: Easy
 

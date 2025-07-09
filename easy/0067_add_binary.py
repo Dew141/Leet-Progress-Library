@@ -1,4 +1,5 @@
-# Leetcode problem #67:
+# Problem ID: 67
+# Title: Add binary
 # URL: https://leetcode.com/problems/add-binary/
 # Difficulty: Easy
 

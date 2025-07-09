@@ -1,4 +1,5 @@
-# Leetcode problem #9:
+# Problem ID: 9
+# Title: Palindrome number
 # URL: https://leetcode.com/problems/palindrome-number/
 # Difficulty: Easy
 

@@ -1,4 +1,5 @@
-# Leetcode problem #88:
+# Problem ID: 88
+# Title: Merge sorted array
 # URL: https://leetcode.com/problems/merge-sorted-array/
 # Difficulty: Easy
 

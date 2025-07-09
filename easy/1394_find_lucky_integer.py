@@ -1,4 +1,5 @@
-# Leetcode problem #1394:
+# Problem ID: 1394
+# Title: Find lucky integer in an array
 # URL: https://leetcode.com/problems/find-lucky-integer-in-an-array/
 # Difficulty: Easy
 
