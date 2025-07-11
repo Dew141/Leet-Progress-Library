@@ -1,4 +1,4 @@
-# Problem ID : 1
+# Problem ID: 1
 # Title: Two sum
 # Difficulty: Easy
 # Problem URL: https://leetcode.com/problems/two-sum/

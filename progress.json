@@ -1,0 +1,154 @@
+[
+    {
+        "id": 20,
+        "title": "Valid parentheses",
+        "difficulty": "Easy",
+        "link": "",
+        "tags": [],
+        "filename": "easy/0020_valid_parentheses.py"
+    },
+    {
+        "id": 70,
+        "title": "Climbing stairs",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/climbing-stairs/",
+        "tags": [],
+        "filename": "easy/0070_climbing_stairs.py"
+    },
+    {
+        "id": 83,
+        "title": "Remove duplicates from sorted list",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "tags": [],
+        "filename": "easy/0083_remove_dup_sorted_list.py"
+    },
+    {
+        "id": 17,
+        "title": "Remove element",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/remove-element/",
+        "tags": [],
+        "filename": "easy/0017_remove_element.py"
+    },
+    {
+        "id": 66,
+        "title": "Plus one",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/plus-one/description/",
+        "tags": [],
+        "filename": "easy/0066_plus_one.py"
+    },
+    {
+        "id": 14,
+        "title": "Longest common prefix",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/longest-common-prefix/",
+        "tags": [],
+        "filename": "easy/0014_longest_common_prefix.py"
+    },
+    {
+        "id": 9,
+        "title": "Palindrome number",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/palindrome-number/",
+        "tags": [],
+        "filename": "easy/0009_palindrome_number.py"
+    },
+    {
+        "id": 21,
+        "title": "Merge two sorted lists",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
+        "tags": [],
+        "filename": "easy/0021_merge_two_sorted_lists.py"
+    },
+    {
+        "id": 69,
+        "title": "Sqrtx",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/sqrtx/",
+        "tags": [],
+        "filename": "easy/0069_sqrt_x.py"
+    },
+    {
+        "id": 58,
+        "title": "Length of last word",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/length-of-last-word/",
+        "tags": [],
+        "filename": "easy/0058_len_last_word.py"
+    },
+    {
+        "id": 26,
+        "title": "Remove duplicates from sorted array",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/",
+        "tags": [],
+        "filename": "easy/0026_remove_dup_from_sorted.py"
+    },
+    {
+        "id": 1,
+        "title": "Two sum",
+        "difficulty": "Easy",
+        "link": "",
+        "tags": [],
+        "filename": "easy/0001_two_sum.py"
+    },
+    {
+        "id": 67,
+        "title": "Add binary",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/add-binary/",
+        "tags": [],
+        "filename": "easy/0067_add_binary.py"
+    },
+    {
+        "id": 88,
+        "title": "Merge sorted array",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/merge-sorted-array/",
+        "tags": [],
+        "filename": "easy/0088_merge_sorted_array.py"
+    },
+    {
+        "id": 13,
+        "title": "Roman to integer",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/roman-to-integer/",
+        "tags": [],
+        "filename": "easy/0013_roman_to_number.py"
+    },
+    {
+        "id": 1394,
+        "title": "Find lucky integer in an array",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+        "tags": [],
+        "filename": "easy/1394_find_lucky_integer.py"
+    },
+    {
+        "id": 65,
+        "title": "Search insert position",
+        "difficulty": "Easy",
+        "link": "https://leetcode.com/problems/search-insert-position/",
+        "tags": [],
+        "filename": "easy/0065_search_insert_position.py"
+    },
+    {
+        "id": 3,
+        "title": "",
+        "difficulty": "Medium",
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+        "tags": [],
+        "filename": "medium/0003_longest_substr_no_repeat.py"
+    },
+    {
+        "id": 2,
+        "title": "Add two numbers",
+        "difficulty": "Medium",
+        "link": "https://leetcode.com/problems/add-two-numbers/",
+        "tags": [],
+        "filename": "medium/0002_add_two_num.py"
+    }
+]
