@@ -1,7 +1,7 @@
 # Problem ID: 1
 # Title: Two sum
 # Difficulty: Easy
-# Problem URL: https://leetcode.com/problems/two-sum/
+# URL: https://leetcode.com/problems/two-sum/
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)

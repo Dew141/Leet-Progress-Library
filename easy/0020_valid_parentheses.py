@@ -1,7 +1,7 @@
 # Problem ID: 20
 # Title: Valid parentheses
 # Difficulty: Easy
-# Problem URL: https://leetcode.com/problems/valid-parentheses/
+# URL: https://leetcode.com/problems/valid-parentheses/
 
 # Time Complexity: O(n)
 # Space Complexity: O(n)
